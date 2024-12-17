@@ -1,0 +1,3 @@
+type Mutation{
+    saveCar(carDTO: CarDTO): Car
+}
